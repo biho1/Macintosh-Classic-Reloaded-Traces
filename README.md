@@ -11,5 +11,5 @@ sample of UB5 bottom pin 3 connections
 ![sample of UB5 bottom pin 3 connections](/sample-of-UB5-bottom-pin-3-connections.jpg)
 
 photoshop file (zipped)
-![photoshop file (zipped)](/logicboard-traces.psd.zip)
+/logicboard-traces.psd.zip
 
