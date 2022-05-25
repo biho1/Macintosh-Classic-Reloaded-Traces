@@ -7,7 +7,7 @@ because there is no boardview file of the **820-0390-03** board i created a phot
 
 **use photoshop or a compatible program to activate the layers/pins you want to trace**, dont forget to also select the front or back layer of the trace (o .. front, u .. back)
 
-**photoshop file (zipped) ** &rarr https://github.com/biho1/Macintosh-Classic-Reloaded-Traces/blob/main/logicboard-traces.psd.zip
+**photoshop file (zipped) ** -> https://github.com/biho1/Macintosh-Classic-Reloaded-Traces/blob/main/logicboard-traces.psd.zip
 
 **sample of UB5 bottom pin 3 connections**
 
