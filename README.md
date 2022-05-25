@@ -11,6 +11,7 @@ photoshop file (zipped)
 https://github.com/biho1/Macintosh-Classic-Reloaded-Traces/blob/main/logicboard-traces.psd.zip
 
 **sample of UB5 bottom pin 3 connections**
+
 front and back layer activated, the connection to the ROM and to the pad on the bottom right are on the back side of the board the rest is on the front
 
 ![sample of UB5 bottom pin 3 connections](/sample-of-UB5-bottom-pin-3-connections.jpg)
