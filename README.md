@@ -11,5 +11,5 @@ sample of UB5 bottom pin 3 connections
 ![sample of UB5 bottom pin 3 connections](/sample-of-UB5-bottom-pin-3-connections.jpg)
 
 photoshop file (zipped)
-/logicboard-traces.psd.zip
+https://github.com/biho1/Macintosh-Classic-Reloaded-Traces/blob/main/logicboard-traces.psd.zip
 
