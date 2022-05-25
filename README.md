@@ -9,3 +9,7 @@ use photoshop or a compatible program to activate the layers/pins you want to tr
 
 sample of UB5 bottom pin 3 connections
 ![sample of UB5 bottom pin 3 connections](/sample-of-UB5-bottom-pin-3-connections.jpg)
+
+photoshop file (zipped)
+![photoshop file (zipped)](/logicboard-traces.psd.zip)
+
