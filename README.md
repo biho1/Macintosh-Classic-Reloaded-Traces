@@ -8,4 +8,4 @@ but in photoshop format with all the lanes in the region of the battery in singe
 use photoshop or a compatible program to activate the layers/pins you want to trace, dont forget to also select the front or back layer of the trace (o .. front, u .. back)
 
 sample of UB5 bottom pin 3 connections
-![sample of UB5 bottom pin 3 connections](/sample of UB5 bottom pin 3 connections.jpg)
+![sample of UB5 bottom pin 3 connections](/sample-of-UB5-bottom-pin-3-connections.jpg)
