@@ -15,3 +15,5 @@ because there is no boardview file of the **820-0390-03** board i created a phot
 front and back layer activated, the connection to the ROM and to the pad on the bottom right are on the back side of the board the rest is on the front
 
 ![sample of UB5 bottom pin 3 connections](/sample-of-UB5-bottom-pin-3-connections.jpg)
+
+if you plan to solder, please check twice and **use this plans at own risk**
