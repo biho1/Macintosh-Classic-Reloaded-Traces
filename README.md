@@ -1,4 +1,4 @@
-# Macintosh-Classic-Reloaded connection traces
+# Macintosh-Classic-Reloaded connection traces for diagnostic of broken lanes
 
 plans from Kai Robinsons Recreation of the Macintosh Classic logic board
 https://github.com/kr239/Macintosh-Classic-Reloaded
